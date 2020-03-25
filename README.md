@@ -14,3 +14,6 @@ Hago una lista de los trabajos subidos hasta la fecha
     -BackPropagation
     -Perceptron
         -Carpeta que incluye el codigo sobre BackPropagation
+        
+Adicional a esto, en cada documento se incluye las paginas de donde se ha tomado base para realizarlo.
+Incluyo el repositorio "https://github.com/oscoidi" sobre el cual he tomado base para realizar el codigo de BackPropagation
