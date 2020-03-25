@@ -12,6 +12,7 @@
         Hago una lista de los trabajos subidos hasta la fecha</br>
             -Ensayo sobre la computación blanda</br>
             -Ensayo sobre MYCIN</br>
+            -Documento sobre el Perceptron</br>
             -BackPropagation</br>
             -Perceptron</br>
                 -Carpeta que incluye el codigo sobre BackPropagation</p>
