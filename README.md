@@ -1,4 +1,4 @@
-#Computación Blanda
+# Computación Blanda
 <html>
     <head>
         <p>En esta carpeta se encuentran todos los trabajos que se han realizado para la materia Computación Blanda</br>
