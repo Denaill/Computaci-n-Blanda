@@ -15,3 +15,5 @@ El paquete consta de tres archivos:
   ```python
   [0.9,0.1][1]
 ```
+Fecha de actualización Marzo 27 2020
+- El programa esta en capacidad de entender el conjunto de datos que nos ha enviado el profesor.
