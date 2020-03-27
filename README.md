@@ -18,4 +18,4 @@
                 -Carpeta que incluye el codigo sobre BackPropagation</p>
     </body>
 Adicional a esto, en cada documento se incluye las paginas de donde se ha tomado base para realizarlo.
-Incluyo el repositorio "https://github.com/oscoidi" sobre el cual he tomado base para realizar el codigo de BackPropagation
+Incluyo el repositorio "https://github.com/oscoidi" sobre el cual he tomado base para realizar el codigo de BackPropagation en conjunto con estos videos tutoriales "https://www.youtube.com/watch?v=jaEIv_E29sk&t=1005s".
