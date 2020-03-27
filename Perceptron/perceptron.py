@@ -25,7 +25,12 @@ class Perceptron():
 			u = []
 			w = []
 			a = []
-			capa.append(input('numero de neuronas en la capa ' + str(i) + ' : '))#anadimos el numero de neuronas de la capa
+			dato = "Salida"
+			if i == 0:
+				dato = "Entrada"
+			else :
+				dato = "Salida"
+			capa.append(input('numero de neuronas en la capa ' + dato + ' : '))#anadimos el numero de neuronas de la capa
 			for j in range(capa[0]):
 				u.append(random.random()) #creamos umbrales de actuacion aleatorios
 				a.append(random.random()) #creamos salidas aleatorias
