@@ -4,13 +4,13 @@ import math,random,os
 class Perceptron():
 
 	def __init__(self):
-		self.alpha = 0.6 #factor de aprendizaje. Cuanto mayor es antes aprende pero tiene menor precision
+		self.alpha = 0.4 #factor de aprendizaje. Cuanto mayor es antes aprende pero tiene menor precision
 		self.perceptron = [] # array que nos define el perceptron y por cada capa contiene un subarray de la siguiente forma: [numero neurons de la capa,[umbrales de actuacion(u)],[pesos(w)],[salidas de las neuronas(a)]]
 		self.ntrain = 0 #numero de entrenamientos ejecutados
 		os.chdir('/home/denail/Documentos/ComputacionBlanda/Perceptron') #cambiamos el directorio de trabajo(debereis cambiarlo por la direccion donde guardeis el programa)
 		self.cwd = os.getcwd()
 		self.saveurl = self.cwd + '/perceptron.txt' #url donde guardaremos la red neuronal una vez entrenada
-		self.trainingdata = self.cwd + '/entrenamientoperc.txt' #url donde tenemos la training data
+		self.trainingdata = self.cwd + '/entrenamientoperc2.txt' #url donde tenemos la training data
 		self.build() #construimos la red neuronal
 		self.train() #entrenamos la red neuronal
 		while True: #utilizamos la red neuronal
@@ -20,7 +20,7 @@ class Perceptron():
 
 	def build(self): #funcion que construye la red neuronal
 		print('***PERCEPTRON***')
-		for i in range(input('numero de capas: ')):
+		for i in range(2):
 			capa = []
 			u = []
 			w = []
