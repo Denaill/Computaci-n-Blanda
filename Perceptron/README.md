@@ -19,4 +19,4 @@ Fecha de actualización Marzo 27 2020
 - El programa esta en capacidad de entender el conjunto de datos que nos ha enviado el profesor.
 
 Video de explicación </br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vRB57VyB3Ug" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Explicación](https://img.youtube.com/vi/vRB57VyB3Ug/0.jpg)](https://www.youtube.com/watch?v=vRB57VyB3Ug)
