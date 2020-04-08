@@ -15,6 +15,7 @@
             -Documento sobre el Perceptron -> Daniel Patiño Rojas y Sebastian Molina</br>
             -BackPropagation</br>
             -Perceptron</br>
+            -Paper sobre LISP</br>
                 -Carpeta que incluye el codigo sobre BackPropagation</p>
     </body>
 Adicional a esto, en cada documento se incluye las paginas de donde se ha tomado base para realizarlo.
