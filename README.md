@@ -14,8 +14,7 @@
             -Ensayo sobre MYCIN</br>
             -Documento sobre el Perceptron -> Daniel Patiño Rojas y Sebastian Molina</br>
             -BackPropagation</br>
-            -Perceptron</br>
-                -Carpeta que incluye el codigo sobre BackPropagation</p>
+            -Perceptron -> Carpeta que incluye el codigo sobre BackPropagation</p>
             -Paper sobre LISP</br>
             -Paper sobre funciones recursivas en LISP</br>
             -Paper sobre los talleres propuestos en LISP</br>
